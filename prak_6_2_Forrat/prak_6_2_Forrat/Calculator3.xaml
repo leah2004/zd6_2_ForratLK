@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="prak_6_2_Forrat.Calculator3">
+    <ContentPage.Resources>
+        <StyleSheet Source="Style.css">
+        </StyleSheet>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout Padding="20"
+                     Orientation="Horizontal">
+
+            <StackLayout Padding="20">
+
+                <Label Text="Центробанк РФ:" FontSize="Large" HorizontalOptions="Center" />
+                <Label Text="USD: 80.000" />
+                <Label Text="EUR: 86.000" />
+
+
+            </StackLayout>
+
+            <StackLayout Padding="20">
+
+                <Label Text="Текущая дата:" FontSize="Large" HorizontalOptions="Center" />
+                <Label x:Name="CurrentDateLabel" Text="Текущая дата:" FontAttributes="Bold" />
+                <Label Text="Ваш результат:" FontSize="Large" HorizontalOptions="Center" />
+                <Label x:Name="usernameLabel" Text="Name" FontAttributes="Bold" />
+                <Label x:Name="creditLabel" Text="Name" FontAttributes="Bold" />
+
+
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

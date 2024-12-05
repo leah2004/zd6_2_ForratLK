@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prak_6_2_Forrat.Android", "prak_6_2_Forrat\prak_6_2_Forrat.Android\prak_6_2_Forrat.Android.csproj", "{3E2EC85C-676D-4185-8FA8-207C7DF71BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prak_6_2_Forrat", "prak_6_2_Forrat\prak_6_2_Forrat\prak_6_2_Forrat.csproj", "{DFC5DB4F-4FA1-46C5-B4BD-FF97FC7F2390}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{3B536FB6-9B4F-4F09-9463-E904319830A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E2EC85C-676D-4185-8FA8-207C7DF71BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2EC85C-676D-4185-8FA8-207C7DF71BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2EC85C-676D-4185-8FA8-207C7DF71BA7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3E2EC85C-676D-4185-8FA8-207C7DF71BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2EC85C-676D-4185-8FA8-207C7DF71BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2EC85C-676D-4185-8FA8-207C7DF71BA7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DFC5DB4F-4FA1-46C5-B4BD-FF97FC7F2390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC5DB4F-4FA1-46C5-B4BD-FF97FC7F2390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC5DB4F-4FA1-46C5-B4BD-FF97FC7F2390}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DFC5DB4F-4FA1-46C5-B4BD-FF97FC7F2390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC5DB4F-4FA1-46C5-B4BD-FF97FC7F2390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC5DB4F-4FA1-46C5-B4BD-FF97FC7F2390}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DBA5F7D-7F76-4291-AFDB-3B655576BD65}
+	EndGlobalSection
+EndGlobal
